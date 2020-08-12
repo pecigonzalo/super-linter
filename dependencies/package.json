@@ -22,7 +22,7 @@
     "standard": "^14.3.4",
     "stylelint": "^13.6.1",
     "stylelint-config-standard": "^20.0.0",
-    "sql-lint": "^0.0.14",
+    "sql-lint": "^0.0.15",
     "typescript": "^3.9.7"
   }
 }
