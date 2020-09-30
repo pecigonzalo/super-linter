@@ -61,11 +61,11 @@
         },
         "cfn-lint": {
             "hashes": [
-                "sha256:101bf9024aa11fb5098d1b00c885b01cfefd5cf51e334c05519595873863c026",
-                "sha256:78518d3b80bf4011d8365228a7b53706b5072ae6dbf8efc0049314e4f2f513d4"
+                "sha256:0e219f5affa2ed24cd588faf599eeef1a2b32172572708a52dbba0ec5517cd9a",
+                "sha256:5178595b7ccbbafb8b2b6fe9d3bc6215007387145ddf29812ecee70bb8500801"
             ],
             "index": "pypi",
-            "version": "==0.36.1"
+            "version": "==0.37.0"
         },
         "decorator": {
             "hashes": [
