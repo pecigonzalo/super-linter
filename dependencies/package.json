@@ -19,7 +19,7 @@
     "npm-groovy-lint": "^7.6.4",
     "prettier": "^2.1.2",
     "prettyjson": "^1.2.1",
-    "standard": "^16.0.0",
+    "standard": "^16.0.1",
     "stylelint": "^13.7.2",
     "stylelint-config-standard": "^20.0.0",
     "sql-lint": "^0.0.15",
