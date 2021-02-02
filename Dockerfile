@@ -13,7 +13,7 @@ FROM mstruebing/editorconfig-checker:2.3.1 as editorconfig-checker
 FROM golangci/golangci-lint:v1.36.0 as golangci-lint
 FROM yoheimuta/protolint:v0.28.1 as protolint
 FROM koalaman/shellcheck:v0.7.1 as shellcheck
-FROM wata727/tflint:0.24.0 as tflint
+FROM wata727/tflint:0.24.1 as tflint
 FROM hadolint/hadolint:latest-alpine as dockerfile-lint
 
 ##################
